@@ -1,0 +1,56 @@
+Documentación 
+
+📱 Aplicaciones Nativas y Clasificación
+¿Qué es una aplicación nativa?
+¿Existen diferentes tipos de aplicaciones nativas?
+¿Cómo se clasifican las aplicaciones nativas según el sistema operativo?
+¿Cuál es la diferencia entre aplicaciones nativas, híbridas y multiplataforma?
+¿Qué características hacen que una aplicación sea considerada realmente “nativa”?
+
+🧩 Clasificación General del Desarrollo Móvil
+¿Cómo se clasifican las aplicaciones móviles según su tecnología?
+¿Qué distingue a una aplicación híbrida de una multiplataforma?
+¿Qué limitaciones existen en cada tipo de desarrollo?
+¿Qué enfoque permite mayor rendimiento y por qué?
+¿Qué enfoque permite mayor reutilización de código?
+
+⏳ Evolución del Desarrollo Móvil
+¿Qué fases han existido en la evolución del desarrollo móvil?
+¿Por qué el desarrollo móvil pasó de ser completamente nativo a soluciones híbridas?
+¿Qué problemas intentaban resolver los enfoques híbridos?
+¿Qué limitaciones llevaron a la aparición de nuevas arquitecturas como los puentes y motores de renderizado?
+¿Cómo ha cambiado la prioridad entre rendimiento y productividad a lo largo del tiempo?
+
+⚙️ Frameworks y Tecnologías a lo Largo del Tiempo
+¿Qué frameworks han surgido en cada etapa del desarrollo móvil?
+¿Qué tecnologías y lenguajes utiliza cada enfoque?
+¿Cómo funcionan internamente los frameworks híbridos basados en WebView?
+¿Cómo funciona la comunicación entre código JavaScript y código nativo en los frameworks con puente?
+¿Qué diferencia existe entre renderizar con componentes nativos y usar un motor de renderizado propio?
+
+🚀 Relevancia y Estado Actual de las Tecnologías
+¿Qué tecnologías siguen siendo relevantes en la actualidad?
+¿Qué frameworks han quedado obsoletos o en desuso?
+¿Por qué algunas soluciones híbridas han perdido popularidad?
+¿Qué enfoques están creciendo actualmente en la industria?
+¿Qué factores determinan que una tecnología se mantenga vigente?
+
+🧠 Funcionamiento y Arquitectura
+¿Cómo funciona internamente cada enfoque de desarrollo móvil?
+¿Qué impacto tiene la arquitectura en el rendimiento de una aplicación?
+¿Qué limitaciones introduce el uso de puentes entre lenguajes?
+¿Cómo influye el motor de renderizado en la experiencia de usuario?
+¿Qué relación existe entre el acceso al hardware y el tipo de desarrollo utilizado?
+
+🔮 Futuro del Desarrollo Móvil
+¿Cómo influirán tecnologías como pantallas plegables, wearables o realidad aumentada?
+¿Qué nuevos desafíos aparecen en el desarrollo móvil moderno?
+¿Están las arquitecturas actuales preparadas para estos cambios?
+¿Qué tipo de desarrollo será más adecuado en el futuro?
+¿Cómo evolucionará la relación entre hardware y software en dispositivos móviles?
+
+🏁 Reflexión Final
+¿Existe una única solución ideal para el desarrollo móvil?
+¿Qué factores determinan la elección entre desarrollo nativo o multiplataforma?
+¿Cómo influyen el tiempo, costo y rendimiento en la decisión tecnológica?
+¿Qué equilibrio se busca actualmente entre eficiencia y experiencia de usuario?

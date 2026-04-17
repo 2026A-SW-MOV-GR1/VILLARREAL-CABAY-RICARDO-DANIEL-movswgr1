@@ -1,0 +1,57 @@
+DOCUMENTACIÓN:
+
+Se utilizo como principal fuente investigativa la IA de chatgpt, a la cual se le realizo las siguientes preguntas principales.
+
+## 🔍 Ingeniería Inversa de la Decisión
+
+* ¿Por qué estas aplicaciones funcionan de la forma en que lo hacen?
+* ¿Qué problema principal intenta resolver cada aplicación?
+* ¿Qué decisiones tecnológicas explican su comportamiento y diseño?
+* ¿Por qué una aplicación prioriza la velocidad (tiempo real) y otra la organización del contenido?
+
+---
+
+## ⚙️ Análisis de Rendimiento y Arquitectura
+
+* ¿Cuál es la arquitectura principal de cada aplicación?
+* ¿Qué tipo de procesamiento utiliza cada una (tiempo real vs diferido)?
+* ¿Cuáles son los principales cuellos de botella en cada sistema?
+* ¿Cómo gestionan grandes volúmenes de usuarios y datos?
+* ¿Qué estrategias utilizan para escalar (cache, microservicios, indexación, etc.)?
+
+---
+
+## 🧠 Desafío de Nuevas Tecnologías
+
+* ¿Qué impacto tendría la aparición de nuevas interfaces como la realidad aumentada?
+* ¿Están estas aplicaciones preparadas para adaptarse a entornos 3D o interactivos?
+* ¿Qué cambios arquitectónicos serían necesarios para soportar nuevas pantallas?
+
+---
+
+## 🏁 Veredicto Crítico
+
+* ¿Qué tecnología elegiríamos para desarrollar una aplicación moderna y exigente?
+* ¿Es mejor usar desarrollo nativo o multiplataforma?
+* ¿Qué ventajas y limitaciones tienen las diferentes tecnologías según su arquitectura?
+
+---
+
+## 📱 Aplicaciones Nativas
+
+* ¿Qué es un aplicativo nativo?
+* ¿Cómo se clasifican las aplicaciones nativas?
+* ¿Cuál es la diferencia entre aplicaciones nativas, híbridas y multiplataforma?
+
+---
+
+## 🎯 Enfoque General del Análisis
+
+* ¿Por qué no existe una única solución tecnológica ideal?
+* ¿Cómo influye el problema a resolver en la arquitectura de una aplicación?
+* ¿Qué factores determinan las decisiones tecnológicas en sistemas escalables?
+
+Además se verifico información de fuentes como: 
+- https://emma.io/blog/tipos-aplicaciones-caracteristicas-ejemplos/#1_App_Nativa
+- https://innowise.com/es/blog/desarrollo-de-aplicaciones-nativas-y-multiplataforma/
+
